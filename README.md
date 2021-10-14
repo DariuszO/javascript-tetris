@@ -35,10 +35,11 @@ CMD (tail -F /var/log/nginx/access.log &) && exec nginx -g "daemon off;"
 ### Step.5 Enjoy tetris
 
 https://master-javascript-tetris-laeyoung.endpoint.ainize.ai/ (change __laeyoung__ to __YOUR-GITHUB-ID__)
+https://master-javascript-tetris-dariuszo.endpoint.ainize.ai/
 
 and update __Run on Ainize__ button as yours
 
-[![Run on Ainize](https://ainize.herokuapp.com/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/ainize-team/javascript-tetris)
+[![Run on Ainize](https://ainize.herokuapp.com/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/DariuszO/javascript-tetris)
 
 
 Javascript Tetris
